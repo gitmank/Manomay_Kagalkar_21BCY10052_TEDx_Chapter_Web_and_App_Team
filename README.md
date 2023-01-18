@@ -1,2 +1,2 @@
-# Manomay_Kagalkar_21BCY10052_TEDx_Chapter_Web_and_App_Team
+# TEDx Website for VITB
 TEDx Chapter Recruitment Task for Round 2
