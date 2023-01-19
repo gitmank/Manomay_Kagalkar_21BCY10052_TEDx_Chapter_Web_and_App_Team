@@ -1,5 +1,7 @@
 # TEDx Website for VITB
-TEDx Chapter Recruitment Task for Round 2
+### TEDx Chapter Recruitment Task for Round 2
+### [Here's a video of my process](https://drive.google.com/drive/folders/1F0Y3C8b8zADsPTyRbftr7MkJYN0s4G8j?usp=sharing)
+> video was greater than 25MB, so I'll add a drive link here and a compressed version in the repo
 
 ## Viewing the project
 The project is deployed on Netlify. Click [TEDxVITBhopal](https://tedx-vitb-demo.netlify.app/) to view it directly.
