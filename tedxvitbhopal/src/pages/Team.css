@@ -1,0 +1,26 @@
+#team-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 90vh;
+    padding-bottom: 100px;
+    height: max-content;
+    padding-top: 100px;
+    background-color: white;
+}
+#team-heading {
+    text-align: center;
+    color: rgb(235, 0, 40);
+    margin-bottom: 50px;
+    font-size: 3rem;
+}
+#members-container {
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}

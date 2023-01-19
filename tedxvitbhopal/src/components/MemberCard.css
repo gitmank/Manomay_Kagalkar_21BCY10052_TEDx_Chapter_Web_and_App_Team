@@ -1,0 +1,45 @@
+.social-icon {
+    max-width: 25px;
+}
+.member-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 5px 5px rgb(254, 115, 115);
+    height: 400px;
+    width: 300px;
+    background-color: black;
+    border: 2px solid black;
+    transition: 200ms;
+}
+.member-card-image {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+#social-links {
+    display: flex;
+    flex-direction: row;
+}
+.member-card-content {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
+    gap: 10px;
+    width: 90%;
+    flex-direction: column;
+}
+.member-card-content > h1 {
+    margin: 0;
+}
+.member-name {
+    font-size: 24px;
+}
+.member-role {
+    font-size: 20px;
+}
+.member-team {
+    font-size: 16px;
+}

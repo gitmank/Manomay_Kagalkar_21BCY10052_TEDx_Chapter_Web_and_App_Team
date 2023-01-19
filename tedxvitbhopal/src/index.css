@@ -1,6 +1,8 @@
 body {
   box-sizing: content-box;
   margin: 0;
+  background-color: black;
+  color: white;
   font-family: 'Helvetica', 'Helvetica Neue', 'Arial',
     sans-serif;
   -webkit-font-smoothing: antialiased;
