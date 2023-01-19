@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Header from './components/Header';
 import About from "./pages/About";
 import Home from "./pages/Home";
+import Talks from "./pages/Talks";
 import Team from "./pages/Team";
 
 const App = () => {
@@ -21,7 +22,7 @@ const App = () => {
                 } />
                 {/* add talks page here */}
                 <Route path='/talks' element={
-                    <></>
+                    <Talks />
                 } />
                 {/* add not found error page here */}
                 <Route path='/*' element={

@@ -11,7 +11,7 @@ const Team = () => {
                 <section id='members-container'>
                     {
                         team.map((member, index) => {
-                            return <MemberCard member={member} />
+                            return <MemberCard key={index} member={member} />
                         })
                     }
                 </section>

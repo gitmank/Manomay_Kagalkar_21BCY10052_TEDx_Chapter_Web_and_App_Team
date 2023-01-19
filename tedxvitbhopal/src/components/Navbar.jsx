@@ -8,7 +8,7 @@ const Navbar = () => {
             <div id='navbar'>
             {
                 navlinks.map((item, index) => {
-                    return <NavLink className='navlink' to={item.link}>{item.text}</NavLink>
+                    return <NavLink key={index} className='navlink' to={item.link}>{item.text}</NavLink>
                 })
             }
             </div>
